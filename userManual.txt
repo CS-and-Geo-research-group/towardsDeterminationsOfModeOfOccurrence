@@ -1,0 +1,1 @@
+Download the project directly into IDEAL, run the main function, and the data has been stored in the data folder.
